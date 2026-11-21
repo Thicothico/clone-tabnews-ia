@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Qual meu jogo preferido?",
-  description: "Acerte o nome do meu jogo preferido.",
+  title: "Em Construção | TabNews",
+  description: "Estamos reconstruindo o TabNews.",
 };
 
 export default function RootLayout({ children }) {
